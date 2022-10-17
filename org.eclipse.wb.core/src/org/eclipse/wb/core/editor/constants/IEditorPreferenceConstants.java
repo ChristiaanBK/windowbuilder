@@ -18,7 +18,7 @@ public interface IEditorPreferenceConstants {
   //The node to use for the Windowbuilder basic preference
   public static String WB_BASIC_UI_PREFERENCE_NODE =
       "org.eclipse.wb.core.editor.constants.preferences";
-  //Windowbuilder basic is a simplified version of Windowbuilder, containing fewer UI elements_test.
+  //Windowbuilder basic is a simplified version of Windowbuilder, containing fewer UI elements_test_1.
   public static String WB_BASIC_UI = "basicUserInterface";
   public static String WB_CLASSPATH_ICONS = "iconsClasspaths";
   //Sets the root object name in the Components Tree view
